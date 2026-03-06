@@ -10,8 +10,8 @@ When I'm not working, I shoot film. Mostly expired film on vintage cameras and i
 
 #### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueltauil&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltauil&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![GitHub Stats](assets/github-stats.svg)
+![Top Languages](assets/top-langs.svg)
 
 #### Latest blog posts
 
