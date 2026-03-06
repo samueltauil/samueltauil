@@ -16,7 +16,11 @@ When I'm not working, I shoot film. Mostly expired film on vintage cameras and i
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [i18nOps: Translating My Site with GitHub Agentic Workflows](https://samueltauil.github.io/github/ai/devops/2026/02/15/i18nops-translating-with-agentic-workflows.html) - Feb 15, 2026
+- [Building My First Agentic Workflow: A Documentation Sync Agent with GitHub Agentic Workflows](https://samueltauil.github.io/github/ai/devops/2026/02/13/building-my-first-agentic-workflow-docs-sync.html) - Feb 13, 2026
+- [Skills Hub: A Curated Catalog for Discovering and Installing AI Coding Skills](https://samueltauil.github.io/github-copilot/open-source/developer-tools/2026/02/06/skills-hub-curated-catalog-discovering-installing-ai-coding-skills.html) - Feb 06, 2026
+- [Copilot Compass: Navigate Your GitHub Copilot Adoption with Actionable Insights](https://samueltauil.github.io/mcp/github-copilot/analytics/vscode/2026/02/02/copilot-compass-github-copilot-analytics-mcp-app.html) - Feb 02, 2026
+- [Building an MCP App with Interactive Charts for VS Code](https://samueltauil.github.io/mcp/vscode/ai/tutorial/2026/01/28/building-mcp-app-interactive-charts-vscode.html) - Jan 28, 2026<!-- BLOG-POST-LIST:END -->
 
 #### Where to find me
 
