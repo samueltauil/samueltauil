@@ -8,6 +8,18 @@ These days I spend most of my time thinking about how AI changes the way we writ
 
 When I'm not working, I shoot film. Mostly expired film on vintage cameras and instant cameras (read here Polaroid). There's something about the unpredictability of analog photography that I really enjoy. You can see some of that on my [photography page](https://samueltauil.github.io/photography/).
 
+#### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samueltauil&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltauil&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+#### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### Where to find me
 
 - Blog: [samueltauil.github.io](https://samueltauil.github.io)
