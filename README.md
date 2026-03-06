@@ -11,7 +11,6 @@ When I'm not working, I shoot film. Mostly expired film on vintage cameras and i
 #### GitHub Stats
 
 ![GitHub Stats](assets/github-stats.svg)
-![Top Languages](assets/top-langs.svg)
 
 #### Latest blog posts
 
