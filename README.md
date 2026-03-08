@@ -8,6 +8,16 @@ These days I spend most of my time thinking about how AI changes the way we writ
 
 When I'm not working, I shoot film. Mostly expired film on vintage cameras and instant cameras (read here Polaroid). There's something about the unpredictability of analog photography that I really enjoy. You can see some of that on my [photography page](https://samueltauil.github.io/photography/).
 
+#### Skills Hub
+
+[Skills Hub](https://skillshub.space/) is a curated catalog for discovering and installing AI coding skills to supercharge your development workflow. It features **225+ skills** across **11 categories**, all searchable and installable directly from the command line:
+
+```
+gh extension install samueltauil/skills-hub
+```
+
+Check it out at [skillshub.space](https://skillshub.space/) or browse the source on [GitHub](https://github.com/samueltauil/skills-hub).
+
 #### GitHub Stats
 
 ![GitHub Stats](assets/github-stats.svg)
