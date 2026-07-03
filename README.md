@@ -25,11 +25,11 @@ Check it out at [skillshub.space](https://skillshub.space/) or browse the source
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watching Copilot’s Prompt Cache with OpenTelemetry and Grafana](https://samueltauil.github.io/github-copilot/devops/2026/07/02/visualizing-copilot-prompt-cache-otel-grafana.html) - Jul 02, 2026
 - [Customer Demo: Agentic Workflow Reviewing Next.js Bundle Budgets and Updating PRs](https://samueltauil.github.io/github-copilot/devops/2026/06/17/agentic-log-analyzer-nextjs-bundle-budgets.html) - Jun 17, 2026
 - [Adding Local Weather to My GitHub Copilot CLI Statusline](https://samueltauil.github.io/github-copilot/developer-tools/2026/05/28/copilot-cli-weather-statusline.html) - May 28, 2026
 - [Oracle to T-SQL Migration Toolkit: Custom Agents, Parallel Pipelines, and a Rubber Duck](https://samueltauil.github.io/github-copilot/open-source/ai/2026/04/20/oracle-to-tsql-migration-toolkit-github-copilot.html) - Apr 20, 2026
-- [Camel Healthcare Data Hub: From Whiteboard to Working Code in One Session](https://samueltauil.github.io/github-copilot/open-source/healthcare/2026/04/02/camel-healthcare-data-hub-from-whiteboard-to-working-code.html) - Apr 02, 2026
-- [Skills Hub Updates: Security Scanning, CLI Installation, and skillshub.space Launch](https://samueltauil.github.io/github-copilot/open-source/developer-tools/2026/03/08/skills-hub-updates-security-scan-new-domain-cli-install.html) - Mar 08, 2026<!-- BLOG-POST-LIST:END -->
+- [Camel Healthcare Data Hub: From Whiteboard to Working Code in One Session](https://samueltauil.github.io/github-copilot/open-source/healthcare/2026/04/02/camel-healthcare-data-hub-from-whiteboard-to-working-code.html) - Apr 02, 2026<!-- BLOG-POST-LIST:END -->
 
 #### Where to find me
 
