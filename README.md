@@ -1,28 +1,28 @@
-### $ whoami - Samuel Tauil
+# Samuel Tauil
 
-I'm a Senior Solution Engineer at Microsoft working on Developer Experience. My day-to-day revolves around helping teams get the most out of GitHub Copilot, VS Code, Codespaces, and GitHub Enterprise. Before Microsoft, I spent about sixteen years at Red Hat as a Principal Specialist Solutions Architect focused on OpenShift, Kubernetes, and GitOps. And before that, I was a Java developer and architect for a good while in Brazil.
+### Senior Solution Engineer at Microsoft
 
-I've been doing this for long time now, and most of what I care about sits at the intersection of developer tooling, cloud-native infrastructure, and open source. I got really deep into the GitOps world, served on the program committees for GitOpsCon and ArgoCon at the Linux Foundation, and helped contribute to the Certified GitOps Associate exam. That community shaped a lot of how I think about delivery pipelines and automation.
+I help teams get more value from modern developer tools, especially GitHub Copilot, VS Code, GitHub Enterprise, and AI-assisted delivery workflows.
 
-These days I spend most of my time thinking about how AI changes the way we write and ship software. I've been writing about that on [my blog](https://samueltauil.github.io/posts/), things like agentic workflows, MCP apps in VS Code, and practical ways to use Copilot beyond autocomplete.
+[![Blog](https://img.shields.io/badge/Blog-samueltauil.github.io-0A66C2?logo=github)](https://samueltauil.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samueltauil-0A66C2?logo=linkedin)](https://linkedin.com/in/samueltauil)
+[![Photography](https://img.shields.io/badge/Photography-expired%20emulsions-FF69B4?logo=instagram)](https://instagram.com/expiredemulsions)
 
-When I'm not working, I shoot film. Mostly expired film on vintage cameras and instant cameras (read here Polaroid). There's something about the unpredictability of analog photography that I really enjoy. You can see some of that on my [photography page](https://samueltauil.github.io/photography/).
+## Focus areas
 
-#### Skills Hub
+- Developer experience and AI-assisted software delivery
+- Agentic workflows, MCP apps, and practical Copilot adoption
+- Kubernetes, OpenShift, GitOps, and platform engineering
 
-[Skills Hub](https://skillshub.space/) is a curated catalog for discovering and installing AI coding skills to supercharge your development workflow. It features **225+ skills** across **11 categories**, all searchable and installable directly from the command line:
+## Background
 
-```
-gh extension install samueltauil/skills-hub
-```
+My work sits at the intersection of developer tooling, cloud-native platforms, and open source. Before Microsoft, I spent many years at Red Hat as a Principal Specialist Solutions Architect, with deep experience in OpenShift, Kubernetes, and GitOps. I also contributed to the GitOps community through programs like GitOpsCon and ArgoCon. I’m especially interested in practical AI adoption, developer tooling, and workflows that make software delivery faster and more reliable.
 
-Check it out at [skillshub.space](https://skillshub.space/) or browse the source on [GitHub](https://github.com/samueltauil/skills-hub).
-
-#### GitHub Stats
+## GitHub activity
 
 ![GitHub Stats](assets/github-stats.svg)
 
-#### Latest blog posts
+## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Well formed is not the same as safe to build](https://samueltauil.github.io/github-copilot/healthcare/2026/08/03/fhir-compliance-skill-copilot-code-review.html) - Aug 03, 2026
@@ -31,8 +31,8 @@ Check it out at [skillshub.space](https://skillshub.space/) or browse the source
 - [Watching Copilot’s Prompt Cache with OpenTelemetry and Grafana](https://samueltauil.github.io/github-copilot/devops/2026/07/02/visualizing-copilot-prompt-cache-otel-grafana.html) - Jul 02, 2026
 - [Customer Demo: Agentic Workflow Reviewing Next.js Bundle Budgets and Updating PRs](https://samueltauil.github.io/github-copilot/devops/2026/06/17/agentic-log-analyzer-nextjs-bundle-budgets.html) - Jun 17, 2026<!-- BLOG-POST-LIST:END -->
 
-#### Where to find me
+## Connect
 
 - Blog: [samueltauil.github.io](https://samueltauil.github.io)
 - LinkedIn: [linkedin.com/in/samueltauil](https://linkedin.com/in/samueltauil)
-- Instagram (photography): [@expiredemulsions](https://instagram.com/expiredemulsions)
+- Photography: [@expiredemulsions](https://instagram.com/expiredemulsions)
