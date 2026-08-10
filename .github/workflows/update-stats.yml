@@ -39,11 +39,30 @@ jobs:
           plugin_projects_limit: 4
           plugin_stars: yes
 
+      - name: Bump stats image URL
+        env:
+          STATS_VERSION: ${{ github.run_id }}-${{ github.run_attempt }}
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+          marker = 'https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=__STATS_VERSION__'
+          replacement = f'https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v={os.environ["STATS_VERSION"]}'
+
+          if marker not in text:
+              raise SystemExit('README stats marker not found')
+
+          path.write_text(text.replace(marker, replacement), encoding='utf-8')
+          PY
+
       - name: Commit generated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg
+          git add README.md assets/github-stats.svg
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
