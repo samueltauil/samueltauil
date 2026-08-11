@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile-content
+  cancel-in-progress: false
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -29,14 +33,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_stars: yes
 
       - name: Bump stats image URL
@@ -67,5 +63,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update GitHub stats [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
