@@ -41,17 +41,19 @@ jobs:
         run: |
           python - <<'PY'
           import os
+          import re
           from pathlib import Path
 
           path = Path('README.md')
           text = path.read_text(encoding='utf-8')
-          marker = 'https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=__STATS_VERSION__'
           replacement = f'https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v={os.environ["STATS_VERSION"]}'
+          pattern = r'https://raw\.githubusercontent\.com/samueltauil/samueltauil/main/assets/github-stats\.svg\?v=[^)\s]+'
+          text, substitutions = re.subn(pattern, replacement, text, count=1)
 
-          if marker not in text:
+          if substitutions == 0:
               raise SystemExit('README stats marker not found')
 
-          path.write_text(text.replace(marker, replacement), encoding='utf-8')
+          path.write_text(text, encoding='utf-8')
           PY
 
       - name: Commit generated stats
