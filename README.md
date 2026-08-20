@@ -20,7 +20,7 @@ My work sits at the intersection of developer tooling, cloud-native platforms, a
 
 ## GitHub activity
 
-![GitHub Stats](https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=32208172542-1)
+![GitHub Stats](https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=32324195958-1)
 
 ## Recent writing
 
