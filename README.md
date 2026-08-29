@@ -25,11 +25,11 @@ My work sits at the intersection of developer tooling, cloud-native platforms, a
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I stopped asking Copilot to write SSIS XML](https://samueltauil.github.io/github-copilot/devops/2026/08/29/ssis-packages-copilot-managed-object-model.html) - Aug 29, 2026
 - [Well formed is not the same as safe to build](https://samueltauil.github.io/github-copilot/healthcare/2026/08/03/fhir-compliance-skill-copilot-code-review.html) - Aug 03, 2026
 - [The setup doc that turned into a VS Code pull request](https://samueltauil.github.io/github-copilot/vscode/2026/07/13/copilot-plugins-marketplace-vscode-add-marketplace-ui.html) - Jul 13, 2026
 - [Cardiac Digital Twin: Driving a Simulink Model With GitHub Copilot in Eight Prompts](https://samueltauil.github.io/github-copilot/ai/healthcare/2026/07/07/cardiac-digital-twin-copilot-simulink-mcp.html) - Jul 07, 2026
-- [Watching Copilot’s Prompt Cache with OpenTelemetry and Grafana](https://samueltauil.github.io/github-copilot/devops/2026/07/02/visualizing-copilot-prompt-cache-otel-grafana.html) - Jul 02, 2026
-- [Customer Demo: Agentic Workflow Reviewing Next.js Bundle Budgets and Updating PRs](https://samueltauil.github.io/github-copilot/devops/2026/06/17/agentic-log-analyzer-nextjs-bundle-budgets.html) - Jun 17, 2026<!-- BLOG-POST-LIST:END -->
+- [Watching Copilot’s Prompt Cache with OpenTelemetry and Grafana](https://samueltauil.github.io/github-copilot/devops/2026/07/02/visualizing-copilot-prompt-cache-otel-grafana.html) - Jul 02, 2026<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
