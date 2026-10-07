@@ -25,11 +25,11 @@ My work sits at the intersection of developer tooling, cloud-native platforms, a
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [What do you approve when the diff says binary file not shown?](https://samueltauil.github.io/github-copilot/devops/2026/10/06/simulink-model-drift-pull-request-review-copilot-canvas.html) - Oct 06, 2026
 - [Half a day of length of stay is worth 26 beds](https://samueltauil.github.io/github-copilot/healthcare/open-source/2026/09/15/octave-care-analytics-copilot-canvas-hospital-capacity.html) - Sep 15, 2026
 - [Five models ran one turn, and I wanted to see all five](https://samueltauil.github.io/github-copilot/devops/2026/09/10/hydrafusion-model-routing-grafana-traces.html) - Sep 10, 2026
 - [I stopped asking Copilot to write SSIS XML](https://samueltauil.github.io/github-copilot/devops/2026/08/29/ssis-packages-copilot-managed-object-model.html) - Aug 29, 2026
-- [Well formed is not the same as safe to build](https://samueltauil.github.io/github-copilot/healthcare/2026/08/03/fhir-compliance-skill-copilot-code-review.html) - Aug 03, 2026
-- [The setup doc that turned into a VS Code pull request](https://samueltauil.github.io/github-copilot/vscode/2026/07/13/copilot-plugins-marketplace-vscode-add-marketplace-ui.html) - Jul 13, 2026<!-- BLOG-POST-LIST:END -->
+- [Well formed is not the same as safe to build](https://samueltauil.github.io/github-copilot/healthcare/2026/08/03/fhir-compliance-skill-copilot-code-review.html) - Aug 03, 2026<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
