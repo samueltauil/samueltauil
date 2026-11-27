@@ -24,6 +24,6 @@ Today I’m a Senior Solution Engineer at Microsoft, based near Boston. I work w
 <details>
 <summary>GitHub activity</summary>
 
-![Contribution calendar and most-used languages for samueltauil](https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=45790629875-1)
+![Contribution calendar and most-used languages for samueltauil](https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=45974629079-1)
 
 </details>
