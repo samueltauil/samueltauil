@@ -1,26 +1,16 @@
 # Samuel Tauil
 
-### Senior Solution Engineer at Microsoft
+I started out building Java applications in Brazil. At Red Hat, I taught partners across Latin America, designed OpenShift platforms, and took GitOps workshops on the road across the US. Teaching became as much a part of my work as engineering. It’s also how I got involved with the GitOps community, from reviewing talks for ArgoCon to helping design the Certified GitOps Associate exam.
 
-I help teams get more value from modern developer tools, especially GitHub Copilot, VS Code, GitHub Enterprise, and AI-assisted delivery workflows.
+Today I’m a Senior Solution Engineer at Microsoft, based near Boston. I work with teams figuring out where GitHub Copilot fits into the way they build and review software. This GitHub is where I share the hands-on side of that work: tools you can run, workshops you can teach, and notes on what surprised me along the way.
 
-[![Blog](https://img.shields.io/badge/Blog-samueltauil.github.io-0A66C2?logo=github)](https://samueltauil.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samueltauil-0A66C2?logo=linkedin)](https://linkedin.com/in/samueltauil)
-[![Photography](https://img.shields.io/badge/Photography-expired%20emulsions-FF69B4?logo=instagram)](https://instagram.com/expiredemulsions)
+[Engineering blog](https://samueltauil.github.io) · [LinkedIn](https://linkedin.com/in/samueltauil) · [Photography: @expiredemulsions](https://instagram.com/expiredemulsions)
 
-## Focus areas
+## Selected projects & contributions
 
-- Developer experience and AI-assisted software delivery
-- Agentic workflows, MCP apps, and practical Copilot adoption
-- Kubernetes, OpenShift, GitOps, and platform engineering
-
-## Background
-
-My work sits at the intersection of developer tooling, cloud-native platforms, and open source. Before Microsoft, I spent many years at Red Hat as a Principal Specialist Solutions Architect, with deep experience in OpenShift, Kubernetes, and GitOps. I also contributed to the GitOps community through programs like GitOpsCon and ArgoCon. I’m especially interested in practical AI adoption, developer tooling, and workflows that make software delivery faster and more reliable.
-
-## GitHub activity
-
-![GitHub Stats](https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=45790629875-1)
+- **[Spec-driven delivery workshop](https://github.com/samueltauil/spec-driven-delivery-workshop)**: Four hands-on exercises take a team from an ambiguous business rule to a tested change using OpenSpec, Gherkin, and GitHub Copilot.
+- **[Copilot Compass](https://github.com/samueltauil/copilot-compass)**: An MCP app for exploring GitHub Copilot usage in VS Code Insiders. Its dashboard shows which editors teams use and how often they accept suggestions in each language.
+- **[Argo Marketing SIG contributor guide](https://github.com/argoproj/argoproj/pull/309)**: I documented how newcomers could get involved, from joining a meeting to reviewing ArgoCon talk proposals.
 
 ## Recent writing
 
@@ -31,8 +21,9 @@ My work sits at the intersection of developer tooling, cloud-native platforms, a
 - [I stopped asking Copilot to write SSIS XML](https://samueltauil.github.io/github-copilot/devops/2026/08/29/ssis-packages-copilot-managed-object-model.html) - Aug 29, 2026
 - [Well formed is not the same as safe to build](https://samueltauil.github.io/github-copilot/healthcare/2026/08/03/fhir-compliance-skill-copilot-code-review.html) - Aug 03, 2026<!-- BLOG-POST-LIST:END -->
 
-## Connect
+<details>
+<summary>GitHub activity</summary>
 
-- Blog: [samueltauil.github.io](https://samueltauil.github.io)
-- LinkedIn: [linkedin.com/in/samueltauil](https://linkedin.com/in/samueltauil)
-- Photography: [@expiredemulsions](https://instagram.com/expiredemulsions)
+![Contribution calendar and most-used languages for samueltauil](https://raw.githubusercontent.com/samueltauil/samueltauil/main/assets/github-stats.svg?v=45790629875-1)
+
+</details>
